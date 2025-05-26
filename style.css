@@ -1,0 +1,14 @@
+
+HTML {}
+BODY {background-color: #E0E0E0; width: 65%; margin: 0 auto; font: serif}
+
+A {color: blue;} A:VISITED {color: blue;} 
+A:HOVER, A:VISITED:HOVER {background-color: #FF9999;}
+A:ACTIVE, A:VISITED:ACTIVE {background-color: #FF9999; color: red:}
+
+H1 {margin: 0.4EM auto; font-size: 2.4EM;}
+H2 {margin: 0.5EM auto; font-size: 2.2EM;}
+H3 {margin: 0.6EM auto; font-size: 2.0EM;)
+H4 {margin: 0.7EM auto; font-size: 1.8EM;}
+H5 {margin: 0.8EM auto; font-size: 1.6EM;}
+H6 {margin: 1.0EM auto; font-size: 1.35EM;}
